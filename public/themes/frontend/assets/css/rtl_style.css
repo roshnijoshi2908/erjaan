@@ -1,0 +1,222 @@
+.rtl .page-wrapper {margin-right: 210px !important; margin-left: 0 !important;}
+.rtl.mini-sidebar .page-wrapper {margin-right: 75px !important;}
+.rtl .topbar .profile-pic {border-right: 1px solid #eae7e7; border-left: none !important;}
+.rtl .topbar .u-pro {margin-right: 10px; margin-left: 0 !important;}
+.rtl .dropdown-menu-right {right: auto !important; left: 0 !important; text-align: right;}
+.rtl .exit-panel {text-align: right; margin-right: 15px;}
+.rtl .exit-panel > .waves-effect {display: flex; align-items: center; gap: 5px;}
+.rtl .left-sidebar {text-align: right !important; border-left: 1px solid #eae7e7; border-right: none !important;}
+.rtl .topbar .top-navbar .navbar-header {border-left: 1px solid #eae7e7; border-right: none !important; padding-left: 25px !important; padding-left: 100px !important;}
+.rtl .sidebar-nav .has-arrow::after {left: 20px; right: unset !important;}
+.rtl .sidebar-nav ul li a {padding: 12px 10px 10px 15px !important;}
+.rtl .sidebar-nav .has-arrow::after {left: 20px; right: unset !important; transform: rotate(-45deg) translate(0, -50%) !important;}
+.rtl .sidebar-nav .has-arrow[aria-expanded="true"]::after {transform: rotate(225deg) translate(0, -50%) !important;}
+.rtl.mini-sidebar .sidebar-nav ul li a {padding: 12px 22px 10px 15px !important;}
+.rtl.mini-sidebar .sidebar-nav #sidebarnav > li > ul {right: 75px; left: unset !important;}
+.rtl.mini-sidebar .topbar .top-navbar .navbar-header {padding-left: 5px !important;}
+.rtl .sidebar-nav {padding-right: 0px !important;}
+.rtl .sidebar-nav ul li ul {padding-right: 40px !important; padding-left: 0 !important;}
+.rtl.mini-sidebar .sidebar-nav ul li ul {padding-right: 0px !important;}
+.rtl .sidebar-nav > ul > li > a {border-right: 3px solid transparent; border-left: none !important;}
+.rtl .sidebar-nav > ul > li.active > a {border-color: #20aee3; color: #20aee3 !important;}
+.rtl .navbar-nav.mr-auto {margin-left: auto !important; margin-right: unset !important; padding-right: 0 !important;}
+.rtl .main-pages-crumbs, .rtl .list-pages-crumbs, .rtl .account-wrapper, .rtl .text-left, .rtl .col-form-label, .rtl .form-group-checkbox, .rtl h5, .rtl h4, .rtl #status-td-container, .rtl #priority-td-container, .rtl #categories-td-container, .rtl #milestones-td-container, .rtl #taxrates-td-container, .rtl #folders-td-container, .rtl #roles-td-container, .rtl #status-td-container, .rtl .mce-content-body, .rtl #report-results-ajax-container, .rtl #report-results-ajax-container + tfoot {text-align: right !important;}
+.rtl .text-right {text-align: left !important;}
+.rtl .alert.alert-info {text-align: right;}
+.rtl .alert-info {border-right: solid 4px #bee5eb; border-left: solid 1px #bee5eb !important; border-color: #bee5eb;}
+.rtl .alert-danger {border-right: solid 4px #f5c6cb; border-left: solid 1px #f5c6cb !important;}
+.rtl .alert-warning {border-right: solid 4px #ffeeba; border-left: solid 1px #ffeeba !important;}
+.rtl .breadcrumb-item+.breadcrumb-item {padding-right: .5rem; padding-left: 0 !important;}
+.rtl .breadcrumb-item+.breadcrumb-item::before {padding-left: .5rem; padding-right: 0 !important;}
+.rtl .p-l-30 {padding-left: 0 !important; padding-right: 30px;}
+.rtl .m-r-20 {margin-right: 0 !important; margin-left: 20px;}
+.rtl .p-r-5 {margin-right: 0 !important; margin-left: 5px;}
+.rtl .ml-auto {margin-right: auto; margin-left: unset !important;}
+.rtl [type=checkbox].filled-in + label:after {right: 0; left: unset !important;}
+.rtl [type=checkbox].filled-in:checked + label:before {right: 11px !important; left: unset !important;}
+.rtl .price-row {display: flex !important; justify-content: center; align-items: center; gap: 5px;}
+.rtl .modal-selector > .p-t-10 {display: flex;}
+.rtl .modal-selector > .p-t-10 .form-group-checkbox .col-12.p-t-5 {padding-right: 0!important; padding-left: 30px !important;}
+.rtl .page-notification-imaged h4 {text-align: center !important;}
+.rtl .select-email-template-dropdown {float: inline-end;}
+.rtl .modal .modal-dialog .modal-header button.close {left: 20px; right: unset !important; top: 25px !important;}
+.rtl #customfields-td-container .p-r-40 {padding-right: 15px !important; padding-left: 40px; text-align: right;}
+.rtl .active-settings-rows .col-4 {text-align: right;}
+.rtl .active-settings-rows .col-4 label {padding-right: 26px; padding-left: 0 !important;}
+.rtl .contact-list thead tr, .rtl .tab-body-embedded thead tr {text-align: right;}
+.rtl .tab-body-embedded .alert {text-align: right;}
+.rtl .tab-body-embedded .alert label {padding-left: unset !important; padding-right: 26px;}
+.rtl .tab-body-embedded .alert label a {float: inline-end; padding-right: 5px;}
+.rtl .alert h5 i {float: inline-start; padding-left: 5px;}
+.rtl .tab-body-embedded form div {text-align: right;}
+.rtl .loadmore-button-container {text-align: center !important;}
+.rtl #commonModalBody .col-12 {text-align: right !important;}
+.rtl #commonModalBody .form-group .col-12 label {padding-right: 26px; padding-left: unset !important;}
+.rtl .taskstatus_colors + label::before, .rtl .taskstatus_colors + label::after, .rtl .taskpriority_colors + label::before, .rtl .taskpriority_colors + label::after, .rtl .leadstatus_colors + label::before, .rtl .leadstatus_colors + label::after, .rtl .milestonecategory_colors + label::before, .rtl .milestonecategory_colors + label::after, .rtl .ticketstatus_colors + label::before, .rtl .ticketstatus_colors + label::after, .rtl .milestone_colors + label::before, .rtl .milestone_colors + label::after {right: 0 !important;}
+.rtl .col-form-label span {display: inline-block; padding-right: 5px;}
+.rtl .chk-col-light-blue + label {padding-right: 26px; padding-left: unset !important;}
+.rtl .chk-col-light-blue + label::before {right: 8px;}
+.rtl .role-edit-add-table-body tr td:nth-child(1), .rtl .role-edit-add-table-body tr th:nth-child(1) {text-align: right;}
+.rtl .file-upload-box h4, .rtl .page-notification-imaged {text-align: center!important;}
+.rtl .spacer.row .col-sm-12 {text-align: right !important;}
+
+.rtl .right-sidebar {text-align: right; left: -240px; right: unset !important;}
+.rtl .shw-rside {left: 0px; right: unset !important;}
+.rtl .right-sidebar .rpanel-title span {float: left !important;}
+.rtl .reports-top-nav.list-pages-crumbs {padding-right: 0 !important;}
+.rtl .reports-top-nav.list-pages-crumbs .dropdown .dropdown-menu, .rtl #list-page-actions .dropdown .dropdown-menu {text-align: right;}
+.rtl #embed-content-container .reports-start h5 {text-align: center !important;}
+.rtl .input-group-sm .input-group-addon {border-radius: 0 !important; border-top-right-radius: 4px !important; border-bottom-right-radius: 4px !important; border-left: none; border-right: 1px solid #ced4da !important;}
+.rtl .filter-block .input-group-addon + .form-control {border-radius: 0 !important; border-top-left-radius: 4px !important; border-bottom-left-radius: 4px !important;}
+.rtl #settings_estimates_default_terms_conditions_ifr html body {text-align: right !important;}
+.rtl .rpanel-title .ti-export {padding-left: 5px;}
+
+.rtl .board-heading {padding-right: 14px !important;}
+.rtl .board-heading .pull-left, .rtl .x-heading .pull-left, .rtl #bill-totals-wrapper .pull-left, .rtl .billing-mode-only-item .pull-left, .rtl .billing-mode-only-item .pull-left {float: right !important;}
+.rtl .board-heading .pull-right, .rtl .x-heading .pull-right, .rtl #bill-totals-wrapper .pull-right, .rtl .billing-mode-only-item .pull-right, .rtl .billing-mode-only-item .pull-right {float: left !important;}
+.rtl .billing-mode-only-item .pull-left, .rtl .billing-mode-only-item .pull-left {text-align: right !important;}
+.rtl .billing-mode-only-item .pull-right, .rtl .billing-mode-only-item .pull-right {text-align: left !important;}
+.rtl .kanban-content .kanban-card {text-align: right; direction: rtl;}
+.rtl .kanban-content .kanban-card .x-title {padding-right: 0 !important;}
+.rtl .kanban-content .kanban-card .x-action-button {left: -5px; right: unset !important;}
+
+.rtl table tbody, .rtl table thead, .rtl table tfoot {text-align: right !important;}
+.rtl table .table-config-icon {left: 0 !important; right: unset !important;}
+.rtl table tr td table tr td {text-align: right !important;} /* .rtl table tr td p */
+.rtl #embed-content-container .card-header h4 {text-align: center !important;}
+.rtl .popover .popover-close {left: 11px; right: unset !important;}
+.rtl .x-title, .rtl .x-element, .rtl .x-edit-tabs {text-align: right;}
+.rtl .x-edit-tabs {padding-right: 0 !important;}
+.rtl .x-assigned-user {display: block !important; margin: 0 0 0 auto;}
+.rtl .card-assigned-popover-content .form-check {padding-left: 0 !important;}
+.rtl .card-modal .close {left: 12px; right: unset !important;}
+.rtl #card-title-editable, .rtl .x-heading, .rtl .x-action, .rtl #card-lead-organisation .form-data-row {text-align: right;}
+.rtl .x-date, .rtl .x-date-due, .rtl .x-payments, .rtl .x-balance-due {padding-left: 0 !important; padding-right: 25px !important;}
+.rtl .pull-right address {text-align: right;}
+
+.rtl .chat-left-aside {float: right !important;}
+.rtl .chat-right-aside {left: 0 !important; right: unset !important;}
+.rtl .message-content-box .x-text {text-align: right !important;}
+.rtl .message-content-box .x-meta {text-align: left !important;}
+.rtl .message-content-box .messages_delete_button {right: 0; left: unset !important;}
+.rtl .chat-list li {text-align: right !important;}
+.rtl .chat-list li.reverse {text-align: left !important;}
+.rtl .chatonline {text-align: right;}
+.rtl .chatonline img {float: right !important; margin-left: 10px !important; margin-right: 0 !important;}
+.rtl .messaging_file_upload_button, .rtl .messaging_submit_button {right: unset !important; left: 20px;}
+.rtl .messaging_file_upload_button {left: 25px; display: flex; justify-content: center; align-items: center; padding-left: 12px !important;}
+.rtl .messaging_text_wrapper {margin-left: 100px !important; margin-right: 10px !important;}
+.rtl #messages_file_upload_close_button {left: 20px; right: unset !important;}
+.rtl #sidepanel-notifications .rpanel-title .x-spacer {float: none !important;}
+.rtl #sidepanel-notifications .rpanel-title .x-top-nav {text-align: left !important;}
+.rtl .dropdown-menu {text-align: right;}
+
+.rtl .profiletimeline .sl-left {margin-right: -60px !important; margin-left: unset !important; float: right !important;}
+.rtl .dashboard-events {padding-right: 60px !important; padding-left: 0 !important; text-align: right}
+.rtl .dashboard-projects-admin {text-align: right;}
+.rtl .dashboard-projects-admin .mail-contnet {padding-left: 0 !important; padding-right: 10px;}
+
+.rtl .card-body.profile_header + .card-body, .rtl .sl-item.timeline {text-align: right;}
+.rtl #list-pages-stats-widget .card-body, .rtl .project-card, .rtl .ticket-panel, .rtl .select2-container, .rtl .select2-search__field {text-align: right !important;}
+
+.rtl .boards .board {margin-right: 0 !important; margin-left: 20px;}
+.rtl .boards .board:last-child {margin-right: 0 !important; margin-left: 0 !important;}
+.rtl .card .card-body small.text-muted {text-align: right; display: block; padding-bottom: 5px;}
+
+.rtl .project-card .x-title {padding-right: 0 !important;}
+.rtl .project-card .x-action-button {left: -5px !important; right: unset !important;}
+
+.rtl .kb-category-icon + h5.card-title, .rtl .package-pricing-box .pricing-header .x-heading {text-align: center !important;}
+.rtl #fx-settings-email-templates-side {text-align: right;}
+.rtl .settings-email-view-wrapper .table-1 h1 {text-align: center !important;}
+.rtl .settings-email-view-wrapper .table-3 .td-button tbody tr td {text-align: center !important;}
+.rtl .x-extra-close-icon {right: unset !important; left: 10px;}
+.rtl .profile-tab {padding-right: 0 !important; padding-left: 20px;}
+.rtl #project_details {text-align: right;}
+.rtl .comment-text {text-align: right;}
+.rtl .post-comment .x-message-field {padding-right: 40px; padding-left: unset !important;}
+.rtl .post-comment .x-message-field textarea {padding-right: 10px !important;}
+.rtl .folder-panel, .rtl #js-trigger-clients-modal-add-edit, .rtl #js-projects-modal-add-edit, .rtl .card-body {text-align: right;}
+.rtl .folder-panel h5 {float: right !important;}
+.rtl .folder-panel .folder-actions {float: left !important;}
+.rtl .each-folder .delete-button {left: 18px !important; right: unset !important;}
+
+.rtl .alert.alert-info .close {float: left !important;}
+.rtl .client-selector-links, .rtl .modal-selector-links {text-align: left;}
+.rtl .select2-container--bootstrap .select2-selection__clear {float: left !important; margin-left: 10px; margin-right: unset !important;}
+.rtl .selection .select2-selection__choice {float: right !important;}
+.rtl #ticket-compose .selection .select2-selection__arrow b {margin-left: -11.7rem !important;}
+.rtl.mini-sidebar #ticket-compose .selection .select2-selection__arrow b {margin-left: -13.7rem !important;}
+.rtl .card.kb-category, .rtl .card.kb-category > .card-body {text-align: center;}
+.rtl .kb-hover-icons.x-team {right: 20px; left: unset !important; }
+.rtl #card-lead-organisation .x-no-result h4, .rtl #card-task-mynotes .x-no-result h4, .rtl #card-task-organisation .x-no-result h4, .rtl .x-no-result h4 {text-align: center !important;}
+.rtl .kanban-card.kanban-board-element .x-assigned {text-align: left !important; padding-left: 25px;}
+.rtl .p-l-0.p-t-5 {padding-right: 0 !important; padding-left: 5px;}
+.rtl #settings-custom-fields-menu {padding-right: 0 !important;}
+.rtl .profiletimeline {border-right: 1px solid #444954; border-left: none !important; padding-right: 40px; padding-left: unset !important; margin-left: unset !important;}
+.rtl #js-trigger-home-admin-wrapper #dashboard-admin-events {border: none !important;}
+.rtl .spacer.row {text-align: right;}
+.rtl #list-pages-stats-widget .card {border-right: 1px solid rgba(0, 0, 0, 0.03);}
+.rtl .text-center .align-middle.text-themecontrast.font-16 {float: inline-start; margin-left: -15px; padding-right: 4px;}
+
+.rtl .noUi-handle {left: 998% !important;}
+
+.rtl .switch label input[type=checkbox], .rtl .filled-in, .rtl input[type=radio].with-gap, .rtl .table-config-checkbox, .rtl .custom-control-input, .rtl input[type=checkbox], .rtl input[type=radio] {left: auto !important;}
+.rtl .input-group-addon + .form-control {border-radius: 0; border-top-left-radius: .2rem !important; border-bottom-left-radius: .2rem !important;}
+.rtl .kanban-card .x-footer .col-6.x-assigned {text-align: left !important;}
+.rtl .kanban-card .x-footer .col-6.x-assigned img {margin-left: 0 !important;}
+
+.rtl .modal {overflow-y: auto !important;}
+.rtl .p-l-5 {padding-right: 5px !important; padding-left: 0 !important;}
+.rtl .p-l-33 {padding-right: 33px !important; padding-left: 0 !important;}
+
+.rtl #additional_information_section .add_task_toggle_container_project .pull-left {text-align: left !important;}
+.rtl .table .td-edge .td-edge-border {left: unset !important; right: 0 !important;}
+.rtl .header-search.pull-right {float: left !important;}
+.rtl #category-items-list-table .items_col_checkbox.checkitem .pull-left {float: right !important; padding-right: 10px !important; padding-left: 0 !important;}
+.rtl #category-items-list-table .vt .clearfix .switch.pull-right {float: left !important; margin-right: 20px !important; margin-left: 0 !important;}
+.rtl #category-items-list-table .vt .clearfix .pull-left {float: right !important;}
+.rtl #change-subscription-plan-form h4 {text-align: center !important;}
+
+.rtl #bill_col_total, .rtl #bill_col_total p {text-align: left !important;}
+
+.rtl .doc-to-by-container .doc-to-by {text-align: right !important;}
+
+
+/* sidebar font size for LTR & RTL */
+/*body {font-size: 16px;}*/
+.sidebar-nav ul li a {font-size: 17px !important; padding: 12px 32px 10px 15px !important;}
+.sidebar-nav ul li a i {width: 32px !important;}
+#billing-items-container tr td {padding: 10px !important;}
+
+
+/* dashboard 1 design */
+.new-table-design .table thead th a {color: #fff !important;}
+.new-table-design .table thead th {padding: 18px 0.8rem !important; background: #3c55d3 !important;}
+.new-table-design .table tbody td {padding-left: 0.9rem !important; padding-right: 0.9rem !important;}
+.new-table-design .table thead th:first-child {border-radius: 8px 0 0 8px !important;}
+.new-table-design .table thead th:last-child {border-radius: 0 8px 8px 0 !important;}
+.card-new-design {border-top: 3px solid #3c55d3 !important;}
+.top-card-design i {font-size: 40px; margin-bottom: 20px; color: #3c55d3 !important; display: inline-block;}
+.top-card-design {box-shadow: inset 0 -4px 7px rgba(0, 0, 0, 0.1) !important; border-top-width: 3px !important; border-top-style: solid !important;}
+.person-card {position: relative; text-align: center;}
+.person-card .person {width: 80px; height: 80px; border-radius: 50%; position: relative; overflow: hidden; border: 2px solid #3c55d3; display: flex; justify-content: center; align-items: center;}
+.person-card .person img {width: 100%; height: auto;}
+.person-card span {font-size: 12px; color: #fff; background: #3c55d3; width: 20px; height: 20px; border-radius: 50%; position: absolute; z-index: 1; top: -10px; left: 50%; transform: translate(-50%, 0); display: flex; justify-content: center; align-items: center;}
+.person-card p {font-size: 12px !important;}
+.person-card h3 {margin-top: 5px; font-size: 25px;}
+.person-card:hover .person {outline: 4px solid #a5b4ff; transition: all 0.4s ease;}
+
+.rtl .top-card-design h4 {text-align: center !important;}
+.rtl .new-table-design .table thead th:first-child {border-radius: 0 8px 8px 0 !important;}
+.rtl .new-table-design .table thead th:last-child {border-radius: 8px 0 0 8px !important;}
+.rtl #tasks-view-wrapper {text-align: right !important;}
+#clear_filter_div {max-width: fit-content !important;}
+
+
+.new-table-design .table.all-activities thead th a {white-space: normal !important;}
+
+@media (max-width: 575px){
+    #clear_filter_div {max-width: 100% !important;}
+    #clear_filter_div button {width: 100%;}
+}

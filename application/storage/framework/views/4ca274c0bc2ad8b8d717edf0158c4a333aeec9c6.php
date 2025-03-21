@@ -1,0 +1,2 @@
+<?php echo $__env->make('pages.reports.estimates.month.filter', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php echo $__env->make('pages.reports.estimates.month.table', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home2/lhxwbjte/erjaan.com/application/resources/views/pages/reports/estimates/month/wrapper.blade.php ENDPATH**/ ?>

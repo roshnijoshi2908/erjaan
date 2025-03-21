@@ -1,0 +1,2 @@
+<?php echo $__env->make('pages.reports.timesheets.client.filter', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php echo $__env->make('pages.reports.timesheets.client.table', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home2/lhxwbjte/erjaan.com/application/resources/views/pages/reports/timesheets/client/wrapper.blade.php ENDPATH**/ ?>
